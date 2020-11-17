@@ -13,3 +13,13 @@ This is a repository to track my progress on PyNative and store code I have writ
 
 **Question 5**: Given a list of numbers, return True if first and last number of a list is same
 
+**Question 6**: Given a list of numbers, Iterate it and print only those numbers which are divisible of 5
+
+**Question 7**: Return the total count of sub-string “Emma” appears in the given string
+
+**Question 8**: Print the following pattern
+
+**Question 9**: Reverse a given number and return true if it is the same as the original number
+
+**Question 10**: Given a two list of numbers create a new list such that new list should contain only odd numbers from the first list and even numbers from the second list
+
