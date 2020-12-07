@@ -23,3 +23,25 @@ This is a repository to track my progress on PyNative and store code I have writ
 
 **Question 10**: Given a two list of numbers create a new list such that new list should contain only odd numbers from the first list and even numbers from the second list
 
+**Loop Exercises**
+
+**Question 1**: Print First 10 natural numbers using while loop
+
+**Question 2**: Print the following pattern
+
+**Question 3**: Accept number from user and calculate the sum of all number between 1 and given number
+
+**Question 4**: Print multiplication table of given number
+
+**Question 5**: Given a list iterate it and display numbers which are divisible by 5 and if you find number greater than 150 stop the loop iteration
+
+**Question 6**: Given a number count the total number of digits in a number
+
+**Question 7**: Print the following pattern using for loop
+
+**Question 8**: Reverse the following list using for loop
+
+**Question 9**: Display -10 to -1 using for loop
+
+**Question 10**: Display a message “Done” after successful execution of for loop
+
